@@ -1,0 +1,5 @@
+com\lyn\ChemistSpider\App.class
+com\lyn\ChemistSpider\bean\Product.class
+com\lyn\ChemistSpider\service\ChemistPageProcessor.class
+com\lyn\ChemistSpider\service\ProductDaoPipeLine.class
+com\lyn\ChemistSpider\dao\ProductMapper.class
